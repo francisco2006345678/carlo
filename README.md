@@ -1,0 +1,4 @@
+# Um algoritmo é uma sequência de passos ou instruções bem definidas que são seguidas para realizar uma tarefa ou resolver um problema específico. Em termos simples, é uma receita ou um conjunto de regras a serem seguidas para alcançar um resultado
+#A diferença entre lógica de programação e algoritmo está no conceito e no papel que cada um desempenha no processo de resolução de problemas, principalmente no contexto da programação de computadores
+Em programação, variáveis são espaços de memória utilizados para armazenar dados que podem variar durante a execução de um programa. Elas são como "caixas" ou "recipientes" onde você pode guardar informações, e essas informações podem ser acessadas, modificadas ou usadas ao longo do tempo, conforme necessário.
+Na linguagem C, os tipos de dados podem ser classificados em diferentes categorias, dependendo do tipo de informação que armazenam. Os tipos de dados básicos em C
